@@ -1,6 +1,6 @@
 # Sergio Perez-Valentin
 
-The goal of this assigment is to get better with git
+**The goal of this assigment is to get better with git.**
 
 - We learned how to create files locally then push them to Github.
 - We learned how to pull from Github.
