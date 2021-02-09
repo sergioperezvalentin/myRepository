@@ -1,5 +1,5 @@
-#Sergio Perez-Valentin
-##02/09/2021
+# Sergio Perez-Valentin
+## 02/09/2021
 
 The goal of this assigment is to get better with git
 
